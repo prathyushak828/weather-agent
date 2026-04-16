@@ -1,0 +1,17 @@
+# Environment variables
+.env
+.env.local
+
+# Maven
+target/
+*.jar
+*.war
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
